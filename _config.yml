@@ -8,7 +8,6 @@ relative_permalinks: true
 
 # Setup
 title:            MARlab
-tagline:          ''
 description:      'Methodology & Analysis Research Lab at ECU'
 url:              http://marlab.com
 baseurl:          /
