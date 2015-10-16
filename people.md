@@ -3,9 +3,9 @@ layout: page
 title: People
 ---
 
-# Alex Schoemann
+### Alex Schoemann
 
-# Anne Carroll
+### Anne Carroll
 
-# Ryan Hudson
+### Ryan Hudson
 
