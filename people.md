@@ -4,7 +4,7 @@ title: People
 ---
 
 ### Alex Schoemann
-<img src="https://github.com/schoam4/schoam4.github.io/blob/master/public/Alex%20Schoemann.jpg" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Alex%20Schoemann.jpg" width="200" height="200" />
 
 Assistant Professor<br>
 East Carolina University<br>
