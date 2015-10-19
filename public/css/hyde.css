@@ -213,6 +213,15 @@ a.sidebar-nav-item:focus {
   color: #90a959;
 }
 
+/* Dark Green */
+.themedrkGreen .sidebar {
+  background-color: #003200;
+}
+.themedrkGreen .content a,
+.themedrkGreen .related-posts li a:hover {
+  color: #003200;
+}
+
 /* Cyan */
 .theme-base-0c .sidebar {
   background-color: #75b5aa;
