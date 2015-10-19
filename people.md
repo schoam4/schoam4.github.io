@@ -4,7 +4,7 @@ title: People
 ---
 
 ### Alex Schoemann
-<img src="https://63640dfb-a-62cb3a1a-s-sites.googlegroups.com/site/alexandermschoemann/home/Alex%20Schoemann.jpg?attachauth=ANoY7cqM1sF-0u6rFnuP6G-CKeJi0TrXfzEQ1ERszwfz5QfxPDnEDv4I-8xyVM8d5Za_cGN4wQT5QuXnD8eqvdDf9oIqwNOjBEqHhcNmVDikW1YoqF3UYdE-vvRfhvXQw-X4oTU_lXY5dAtW2nDD_IVyBR75b2fB_9pHinF3tP5HDkab_r-t9An4M24f2CAxCz0FP7QBS_8ZDv2JD8e86MGiFAYCkMNAm88hy6rxoKHNxMmyq_TIDAk%3D&attredirects=0" width="200" height="200" />
+<img src="https://63640dfb-a-62cb3a1a-s-sites.googlegroups.com/site/alexandermschoemann/home/Alex%20Schoemann.jpg?attachauth=ANoY7cqM1sF-0u6rFnuP6G-CKeJi0TrXfzEQ1ERszwfz5QfxPDnEDv4I-8xyVM8d5Za_cGN4wQT5QuXnD8eqvdDf9oIqwNOjBEqHhcNmVDikW1YoqF3UYdE-vvRfhvXQw-X4oTU_lXY5dAtW2nDD_IVyBR75b2fB_9pHinF3tP5HDkab_r-t9An4M24f2CAxCz0FP7QBS_8ZDv2JD8e86MGiFAYCkMNAm88hy6rxoKHNxMmyq_TIDAk%3D&attredirects=0" width="100" height="100" />
 Assistant Professor
 East Carolina University
 Department of Psychology
