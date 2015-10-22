@@ -14,10 +14,16 @@ Department of Psychology<br>
 
 Dr. Schoemann's general interests in quantitative psychology lie in the areas of latent variable modeling (factor analysis and structural equation modeling (SEM)), multilevel modeling (MLM), and meta-analysis. Across these areas he has focused on issues related to multiple group models, missing data, longitudinal models, and Monte Carlo simulations. He is interested in encouraging access to advanced quantitative techniques through developing programs in the statistical language R. 
 
-### Anne Carroll
-Graduate Student Occupational Health Psychology
-East Carolina University
+### Anne Corinne Carroll
+
+<img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Pirates.png" width="200" height="200" />
+
+Graduate Student Occupational Health Psychology <br>
+East Carolina University <br>
+
+Anne Corinne Carroll, commonly known as 'AC,' is currently perusing her doctoral degree in Occupational Health Psychology at ECU. Her research interests include the unique stresses faced by healthcare employees, recovery from error, and assessment centers. 
 
 
 ### Ryan Hudson
 
+<img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Pirates.png" width="200" height="200" />
