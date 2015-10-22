@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-[Determining power and sample size for indirect effects]()
+[Determining power and sample size for indirect effects](https://github.com/schoam4/Talks/blob/master/SSSP_mediation/mc_power.zip?raw=true)
 Shiny app to determine power and sample size for simple mediation models. Download the .zip file, extract to a folder and run the run_app.R file to start the app. [Web based version (may be slow)](https://schoemanna.shinyapps.io/mc_power)
 
 [simsem](simsem.org) [(R package)](http://cran.r-project.org/web/packages/simsem/index.html)
