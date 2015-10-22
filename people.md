@@ -18,7 +18,8 @@ Dr. Schoemann's general interests in quantitative psychology lie in the areas of
 
 <img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Pirates.png" width="200" height="200" />
 
-Graduate Student Occupational Health Psychology <br>
+Graduate Student Occupational<br>
+Health Psychology <br>
 East Carolina University <br>
 
 Anne Corinne Carroll, commonly known as 'AC,' is currently perusing her doctoral degree in Occupational Health Psychology at ECU. Her research interests include the unique stresses faced by healthcare employees, recovery from error, and assessment centers. 
