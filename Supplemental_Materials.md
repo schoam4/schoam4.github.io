@@ -3,7 +3,7 @@ layout: page
 title: Supplemental Materials
 ---
 
-[Slides](https://github.com/schoam4/Talks/blob/master/SPSP_lavaan/SPSP_lavaan.pdf?raw=true), [web app] () and [downloadable app](https://github.com/schoam4/Talks/blob/master/SPSP_lavaan/SPSP_lavaan.R) to accompany Schoemann & Boulton (SSSP 2015) presentation on determining power and sample size for mediation models.
+[Slides](https://github.com/schoam4/Talks/raw/master/SSSP_mediation/SSSP_mediation.pdf), [web app] (https://schoemanna.shinyapps.io/mc_power) and [downloadable app](https://github.com/schoam4/Talks/blob/master/SSSP_mediation/mc_power.zip?raw=true) to accompany Schoemann & Boulton (SSSP 2015) presentation on determining power and sample size for mediation models.
 
 [Slides](https://github.com/schoam4/Talks/blob/master/SPSP_lavaan/SPSP_lavaan.pdf?raw=true) and [example code](https://github.com/schoam4/Talks/blob/master/SPSP_lavaan/SPSP_lavaan.R) to accompany Schoemann (SPSP 2015) presentation on SEM with lavaan.
 
