@@ -1,10 +1,13 @@
 ---
 layout: page
 title: 
+
+carousel:
+  - image: /public/MAR_missmap.png
+  - image: /public/CFM.png
 ---
 
 #MARlab
 
 The Methodology & Analysis Research Lab at East Carolina University conducts research in quantitative methods and study design for behavioral science.
 
-![](https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_missmap.png)
