@@ -16,7 +16,7 @@ Dr. Schoemann's general interests in quantitative psychology lie in the areas of
 
 ### Anne Corinne Carroll
 
-<img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Pirates.png" width="200" height="200" />
+<img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Anne.jpg" width="240" height="180" />
 
 Graduate Student Occupational<br>
 Health Psychology <br>
@@ -27,4 +27,4 @@ Anne Corinne Carroll, commonly known as 'AC,' is currently perusing her doctoral
 
 ### Ryan Hudson
 
-<img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Pirates.png" width="200" height="200" />
+<img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Anne.jpg" width="240" height="180" />
