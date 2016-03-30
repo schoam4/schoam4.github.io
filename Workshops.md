@@ -3,4 +3,4 @@ layout: page
 title: Workshops
 ---
 
-[Material](https://github.com/schoam4/Talks/raw/master/SSSP_mediation/SSSP_mediation.pdf), to accompany Schoemann & Short (SEPA 2016) workshop on meta-analysis.
+[Materials to accompany Schoemann & Short (SEPA 2016) workshop on meta-analysis.](https://github.com/schoam4/Talks/blob/master/SEPA_meta/Meta_SEPA_040216.zip?raw=true)

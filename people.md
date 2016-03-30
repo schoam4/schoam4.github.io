@@ -18,8 +18,8 @@ Dr. Schoemann's general interests in quantitative psychology lie in the areas of
 
 <img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Anne.jpg" width="180" height="240" />
 
-Graduate Student Occupational<br>
-Health Psychology <br>
+Graduate Student<br>
+Occupational Health Psychology <br>
 East Carolina University <br>
 
 Anne Corinne Carroll, commonly known as 'AC,' is currently perusing her doctoral degree in Occupational Health Psychology at ECU. Her research interests include the unique stresses faced by healthcare employees, recovery from error, and assessment centers. 
@@ -28,3 +28,8 @@ Anne Corinne Carroll, commonly known as 'AC,' is currently perusing her doctoral
 ### Ryan Hudson
 
 <img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Ryan.jpg" width="180" height="240" />
+
+Undergraduate Student <br>
+East Carolina University <br>
+
+Pursuing a double major in Psychology and Mathematics at East Carolina University, Ryan assists the Methodology and Analysis Research lab in various modeling endeavors. As a recent addition to the MAR lab, Ryan's specific research interests are still unclear; however, he enjoys areas involving heteroskedasticity and classical test theory.  
