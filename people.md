@@ -16,7 +16,7 @@ Dr. Schoemann's general interests in quantitative psychology lie in the areas of
 
 ### Anne Corinne Carroll
 
-<img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Anne.jpg" width="180" height="240" />
+<img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Anne.jpg" width="180" height="260" />
 
 Graduate Student<br>
 Occupational Health Psychology <br>
