@@ -1,6 +1,6 @@
 ---
 layout: page
-title: App for Power Analysis with Mediation Models
+title: Power Analysis with Mediation Models
 ---
 
 The app is available on [github](https://github.com/schoam4/mc_power_med), to download the code and run the app locally use [this link](https://github.com/schoam4/mc_power_med/archive/master.zip). 
