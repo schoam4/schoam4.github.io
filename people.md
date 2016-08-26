@@ -22,7 +22,7 @@ Graduate Student<br>
 Occupational Health Psychology <br>
 East Carolina University <br>
 
-Anne Corinne Carroll, commonly known as 'AC,' is currently perusing her doctoral degree in Occupational Health Psychology at ECU. Her research interests include the unique stresses faced by healthcare employees, recovery from error, and assessment centers. 
+Anne Corinne Carroll, commonly known as 'AC,' is currently pursuing her doctoral degree in Occupational Health Psychology at ECU. Her research interests include the unique stresses faced by healthcare employees, recovery from error, and assessment centers. 
 
 
 ### Ryan Hudson
