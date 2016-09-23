@@ -3,7 +3,7 @@ layout: page
 title: Power Analysis with Mediation Models
 ---
 
-The app is available on [github](https://github.com/schoam4/mc_power_med), to download the code and run the app locally use [this link](https://github.com/schoam4/mc_power_med/archive/master.zip). 
+The app is available on [github](https://github.com/schoam4/mc_power_med), to download the code and run the app locally use [this link](https://github.com/schoam4/mc_power_med/archive/master.zip). The (slower) web app can be found [here] (https://schoemanna.shinyapps.io/mc_power_med/).
 
 To run the app automatically on your local machine use the following code in R (or RStudio):
 
