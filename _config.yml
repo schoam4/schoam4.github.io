@@ -17,6 +17,9 @@ author:
 
 paginate:         5
 
+# Google services
+google_analytics: UA—68910433-1
+
 # Custom vars
 version:          2.1.0
 
