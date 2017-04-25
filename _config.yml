@@ -23,4 +23,6 @@ google_analytics: UA—68910433-1
 # Custom vars
 version:          2.1.0
 
+#Markdown processor
+markdown: redcarpet
 
