@@ -11,31 +11,3 @@ This approach is implemented with the ""Set N, Find Power"" option in the App. F
 
 $$p = \frac{e^{B_0 + B_1N}}{1+e^{B_0 + B_1N}}$$
 
-<script type="text/x-mathjax-config"> 
-    MathJax.Hub.Config({ 
-        jax: ["input/TeX","output/HTML-CSS"], 
-        extensions: ["tex2jax.js"], 
-        tex2jax: { 
-        inlineMath: [ ['$','$'], ["\\(","\\)"] ], 
-        displayMath: [ ['$$','$$'], ["\\[","\\]"] ], 
-        processEscapes: true 
-        }, 
-    }); 
-    </script> 
-    
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-        }
-    });
-
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-    </script>
-
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
