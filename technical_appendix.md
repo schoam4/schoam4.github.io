@@ -31,5 +31,16 @@ In the first simulation, X, M, and Y were multivariately normally distributed, w
 
 ![](https://github.com/schoam4/schoam4.github.io/raw/master/public/Normal_power.png)
 
+## Kurtotic variables
+
+In the second simulation, X, M, and Y were multivariately distributed with kurtosis = 3, with population parameters listed above. Data generation used the Vale and Maurelli (1983) method. The figure below plots power for the indirect effect using Monte Carlo CIs and bootstrap CIs. In general, estimates of power were similar across the two methods, r = .99, with the Monte Carlo CI providing sightly higher estimates of power.
+
+
+## Skewed variables
+
+In the second simulation, X, M, and Y were multivariately distributed with skew = 3, with population parameters listed above. Data generation used the Vale and Maurelli (1983) method. The figure below plots power for the indirect effect using Monte Carlo CIs and bootstrap CIs. In general, estimates of power were similar across the two methods, r = .99, with the Monte Carlo CI providing sightly higher estimates of power.
+
+
+Vale, C. D. & Maurelli, V. A. (1983) Simulating multivariate nonormal distributions. *Psychometrika, 48*, 465-471.
 
 *Hypothesis tests concerning single regression coefficients make similar assumptions when using Wald statistics for hypothesis testing. This assumption is most likely to be violated when the assumptions of a regression model are violated, specifically when the errors in the model are not normally distributed. An important point is that the assumptions of regression concern the distribution of errors in the model, not the distribution of the predictors or the distribution of the outcome variable (though with non-normal outcome variables, errors are often non-normal as well).
