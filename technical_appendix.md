@@ -35,6 +35,7 @@ In the first simulation, X, M, and Y were multivariately normally distributed, w
 
 In the second simulation, X, M, and Y were multivariately distributed with kurtosis = 3, with population parameters listed above. Data generation used the Vale and Maurelli (1983) method. The figure below plots power for the indirect effect using Monte Carlo CIs and bootstrap CIs. In general, estimates of power were similar across the two methods, r = .99, with the Monte Carlo CI providing sightly higher estimates of power.
 
+![](https://github.com/schoam4/schoam4.github.io/raw/master/public/Kurtotic_power.png)
 
 ## Skewed variables
 
