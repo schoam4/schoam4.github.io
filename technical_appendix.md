@@ -27,7 +27,7 @@ All Monte Carlo simulations used a simple, three variable mediation model with a
 
 ## Normally distributed variables
 
-In the first simulation, X, M, and Y were multivariately normally distributed, with population parameters listed above. The figure below plots power for the indirect effect using Monte Carlo CIs and bootstrap CIs. In general, estimates of power were similar across the two methods, r = .99, with the Monte Carlo CI providing sightly higher estimates of power. Code used to run the simulation can be found [here](https://github.com/schoam4/schoam4.github.io/raw/master/public/Compare_MC_boot_power_normal.R).
+In the first simulation, X, M, and Y were multivariately normally distributed, with population parameters listed above. The figure below plots power for the indirect effect using Monte Carlo CIs and bootstrap CIs. In general, estimates of power were similar across the two methods, r = .99, with the Monte Carlo CI providing sightly higher estimates of power. 
 
 ![](https://github.com/schoam4/schoam4.github.io/raw/master/public/Normal_power.png)
 
@@ -41,6 +41,7 @@ In the second simulation, X, M, and Y were multivariately distributed with kurto
 
 In the third simulation, X, M, and Y were multivariately distributed with skew = 3, with population parameters listed above. Data generation used the Vale and Maurelli (1983) method. The figure below plots power for the indirect effect using Monte Carlo CIs and bootstrap CIs. In general, estimates of power were similar across the two methods, r = .99, with the Monte Carlo CI providing sightly higher estimates of power.
 
+![](https://github.com/schoam4/schoam4.github.io/raw/master/public/Skew_power.png)
 
 Vale, C. D. & Maurelli, V. A. (1983) Simulating multivariate nonormal distributions. *Psychometrika, 48*, 465-471.
 
