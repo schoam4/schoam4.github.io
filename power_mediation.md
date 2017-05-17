@@ -3,7 +3,7 @@ layout: page
 title: Power Analysis with Mediation Models
 ---
 
-The app is available on [github](https://github.com/schoam4/mc_power_med), to download the code and run the app locally use [this link](https://github.com/schoam4/mc_power_med/archive/master.zip). The (slower) web app can be found [here](https://schoemanna.shinyapps.io/mc_power_med/).
+The app is available on [github](https://github.com/schoam4/mc_power_med), to download the code and run the app locally use [this link](https://github.com/schoam4/mc_power_med/archive/master.zip). The (slower) web app can be found [here](https://schoemanna.shinyapps.io/mc_power_med/). 
 
 To run the app automatically on your local machine use the following code in R (or RStudio):
 
@@ -15,6 +15,8 @@ runGitHub("mc_power_med", "schoam4")
 ```
 
 For presentations on the app see the [Supplemental Materials](http://marlab.org/Supplemental_Materials/) page. Slides can be found [here](https://github.com/schoam4/Talks/raw/master/IMPS_2016/IMPS_power.pdf).
+
+A (unproofed) copy of the manuscript detailing the app can be found [here] (https://github.com/schoam4/Talks/blob/master/MC_vs_Bootstrap_power_code/Schoemann_Boulton_Short_inpress.docx?raw=true).
 
 The shiny and MASS packages must be installed to use the app (MASS is loaded automatically by the app).
 
