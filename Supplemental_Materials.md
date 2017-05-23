@@ -3,6 +3,8 @@ layout: page
 title: Supplemental Materials
 ---
 
+[Slides](https://github.com/schoam4/Talks/raw/master/M3_power_2017.pdf), [app page](http://marlab.org/power_mediation/) to accompany Schoemann, Boulton, & Short (M3 2017) presentation on determining power and sample size for mediation models.
+
 [Slides](https://github.com/schoam4/Talks/raw/master/Dyad_missing_DevMeth.pdf) to accompany Schoemann & Sakaluk (Developmental Methods 2016) presentation on planned missing data in longitudinal dyadic models.
 
 [Slides](https://github.com/schoam4/Talks/raw/master/IMPS_2016/IMPS_power.pdf), [web app](https://schoemanna.shinyapps.io/mc_power_med/) and [downloadable app](https://github.com/schoam4/mc_power_med/archive/master.zip) to accompany Schoemann, Boulton, & Short (IMPS 2016) presentation on determining power and sample size for mediation models. For information on using the app visit the [app page](http://marlab.org/power_mediation/).
