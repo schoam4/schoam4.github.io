@@ -1,5 +1,6 @@
 # Dependencies
 highlighter:      rouge 
+markdown:         kramdown
 
 # Permalinks
 permalink:        pretty
@@ -22,7 +23,8 @@ google_analytics: UA—68910433-1
 
 # Custom vars
 version:          2.1.0
+gems: [jekyll-paginate]
 
-#Markdown processor
-markdown: kramdown
+
+
 
