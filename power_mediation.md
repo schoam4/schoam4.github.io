@@ -5,7 +5,7 @@ title: Power Analysis with Mediation Models
 
 To cite the app use:
 
-Schoemann, A. M., Boulton, A. J., & Short, S. D. (in press). Determining power and sample size for simple and complex mediation models. *Social Psychological and Personality Science*.
+> Schoemann, A. M., Boulton, A. J., & Short, S. D. (in press). Determining power and sample size for simple and complex mediation models. *Social Psychological and Personality Science*.
 
 The app is available on [github](https://github.com/schoam4/mc_power_med), to download the code and run the app locally use [this link](https://github.com/schoam4/mc_power_med/archive/master.zip). The (slower) web app can be found [here](https://schoemanna.shinyapps.io/mc_power_med/). 
 
