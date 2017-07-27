@@ -10,7 +10,7 @@ permalink:        pretty
 title:            MARlab
 description:      'Methodology & Analysis Research Lab'
 url:              http://marlab.com
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Alex Schoemann'
