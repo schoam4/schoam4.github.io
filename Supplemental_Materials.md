@@ -3,7 +3,7 @@ layout: page
 title: Supplemental Materials
 ---
 
-[Poster] (https://github.com/schoam4/Talks/raw/master/SPSP_2019_Schoemann_Hudson.pdf) to accompany Schoemann & Hudson (SPSP 2019) poster on comparing continuous and categorical CFA models.
+[Poster](https://github.com/schoam4/Talks/raw/master/SPSP_2019_Schoemann_Hudson.pdf) to accompany Schoemann & Hudson (SPSP 2019) poster on comparing continuous and categorical CFA models.
 
 [Slides](https://github.com/schoam4/Talks/raw/master/M3_power_2017.pdf), [app page](http://marlab.org/power_mediation/) to accompany Schoemann, Boulton, & Short (M3 2017) presentation on determining power and sample size for mediation models.
 
