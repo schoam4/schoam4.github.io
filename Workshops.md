@@ -3,7 +3,7 @@ layout: page
 title: Workshops
 ---
 
-[Materials to accompany Schoemann (Stats Camp 2019) workshop on Multilevel Modelings in R.](https://github.com/schoam4/Talks/raw/master/Stats_Camp/MLM_R_Spring2019.zip)
+[Materials to accompany Schoemann (Stats Camp 2019) workshop on Multilevel Modeling in R.](https://github.com/schoam4/Talks/raw/master/Stats_Camp/MLM_R_Spring2019.zip)
 
 [Materials to accompany Schoemann (Stats Camp 2018) workshop on Mediation and Moderation.](https://github.com/schoam4/Talks/raw/master/Stats_Camp/Mediation_Moderation_Spring2018.zip)
 
