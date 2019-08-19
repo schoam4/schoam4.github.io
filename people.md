@@ -6,7 +6,7 @@ title: People
 ### Alex Schoemann
 <img src="https://raw.githubusercontent.com/schoam4/schoam4.github.io/master/public/Alex%20Schoemann.jpg" width="240" height="180" />
 
-Assistant Professor<br>
+Associate Professor<br>
 East Carolina University<br>
 Department of Psychology<br>
 [Faculty Profile](http://www.ecu.edu/psyc/schoemann.cfm)<br>
