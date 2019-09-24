@@ -13,7 +13,7 @@ title: Supplemental Materials
 
 [Slides](https://github.com/schoam4/Talks/raw/master/Dyad_missing_M3.pdf) to accompany Schoemann & Sakaluk (M3 2016) presentation on missing data in dyadic models.
 
-[Data, Mplus and SAS](https://sites.google.com/site/alexandermschoemann/Multiple_Group_MA.zip?attredirects=0&d=1) code to accompany Schoemann (in press) paper on multiple group meta-analysis.
+[Data, Mplus and SAS](https://sites.google.com/site/alexandermschoemann/Multiple_Group_MA.zip?attredirects=0&d=1) code to accompany Schoemann (2016) paper on multiple group meta-analysis.
 
 [Slides](https://github.com/schoam4/Talks/raw/master/SSSP_mediation/SSSP_mediation.pdf), [web app](https://schoemanna.shinyapps.io/mc_power_med/) and [downloadable app](https://github.com/schoam4/Talks/blob/master/SSSP_mediation/mc_power.zip?raw=true) to accompany Schoemann & Boulton (SSSP 2015) presentation on determining power and sample size for mediation models.
 
