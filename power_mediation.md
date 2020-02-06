@@ -25,3 +25,9 @@ A (unproofed) copy of the manuscript detailing the app can be found [here](https
 The shiny and MASS packages must be installed to use the app (MASS is loaded automatically by the app).
 
 For technical details please consult the [Technical Appendix](http://marlab.org/technical_appendix/).
+
+### Updates
+
+April 25, 2018: Allow population parameters to be specified with standardized path estimates or correlations
+
+July 26, 2017: Add serial mediation model with two mediators
