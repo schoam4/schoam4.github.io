@@ -4,7 +4,7 @@ title: Software
 ---
 
 [Determining power and sample size for indirect effects](https://github.com/schoam4/Talks/blob/master/SSSP_mediation/mc_power.zip?raw=true)
-Shiny app to determine power and sample size for simple mediation models. Download the .zip file, extract to a folder and run the run_app.R file to start the app. [Web based version (may be slow)](https://schoemanna.shinyapps.io/mc_power)
+Shiny app to determine power and sample size for simple mediation models. Download the .zip file, extract to a folder and run the run_app.R file to start the app. [Web based version (may be slow)](https://schoemanna.shinyapps.io/mc_power_med)
 
 [simsem](simsem.org) [(R package)](http://cran.r-project.org/web/packages/simsem/index.html)
 An R package designed to act as a comprehensive simulator for structural equation models. simsem can generate and analyze simulated data and simsem includes advanced simulation functions including missing data, non-normal data, and continuously varying simulation parameters.
