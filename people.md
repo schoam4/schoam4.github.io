@@ -16,7 +16,7 @@ Dr. Schoemann's general interests in quantitative psychology lie in the areas of
 
 ### Thomas Vitti
 
-<img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/Marlab_Vitti.jpeg" width="240" height="240" />
+<img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/Marlab_Vitti.jpeg" width="180" height="240" />
 
 Graduate Student<br>
 Occupational Health Psychology <br>
