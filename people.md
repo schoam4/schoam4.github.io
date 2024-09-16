@@ -33,6 +33,12 @@ Graduate Student<br>
 Occupational Health Psychology <br>
 East Carolina University <br>
 
+### Gordon Goodwin
+
+Graduate Student<br>
+Industrial/Organizational Psychology <br>
+East Carolina University <br>
+
 ### Ryan Hudson
 
 <img src="https://github.com/schoam4/schoam4.github.io/raw/master/public/MAR_lab_Ryan.jpg" width="180" height="240" />
